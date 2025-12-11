@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "177967327210",
+    "firebase_url": "https://pmobile8-2cd02-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pmobile8-2cd02",
+    "storage_bucket": "pmobile8-2cd02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177967327210:android:f340da5b5437b4aedc7493",
+        "android_client_info": {
+          "package_name": "com.dyah.pertemuan8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3q_v4YYwnTMKISJFKdplvDEV4Nar9_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
